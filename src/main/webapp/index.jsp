@@ -9,9 +9,8 @@
 </h1>
 <br/>
 
-<a href="/ola">Ola mundo</a><br>
-<a href="/cabecalhos">Cabecalhos</a><br>
-<a href="/requisicao">Requisicao</a>
+<a href="cabecalhos">Cabecalhos</a><br>
+<a href="requisicao">Requisicao</a>
 
 </body>
 </html>
